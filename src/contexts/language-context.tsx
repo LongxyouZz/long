@@ -141,11 +141,11 @@ const translations: Translations = {
     en: "Comedy",
     km: "កំប្លែង",
   },
-  thriller: {
+  Thriller: {
     en: "Thriller",
     km: "រំភើប",
   },
-  movies: {
+  Movies: {
     en: "Movies",
     km: "ខ្សែភាពយន្ត",
   },

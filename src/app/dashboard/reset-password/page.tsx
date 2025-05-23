@@ -67,10 +67,10 @@ export default async function ResetPassword(props: {
 
             <SubmitButton
               formAction={resetPasswordAction}
-              pendingText={t("resettingPassword")}
+              pendingText={("resettingPassword")}
               className="w-full"
             >
-              {t("resetPassword")}
+              {("resetPassword")}
             </SubmitButton>
 
             <FormMessage message={searchParams} />
